@@ -1,0 +1,24 @@
+.head {
+    background-image: url('/public/bg.png');
+    background-size: cover; 
+    background-repeat: no-repeat; /* Adjust as needed */
+    height: 500px;
+    /* Other styles for your component */
+  }
+  .head-text{
+    text-align: center;
+    padding-top: 90px;
+    color: #fff;
+  }
+  h4.head-h4{
+    text-align: center;
+    font-size: 56px;
+    margin-top: 20px;
+    padding-top: 20px;
+  }
+  p.head-para{
+    text-align: center;
+    font-size: 20px;
+    width: 681px;
+    padding-left: 430px;
+  }
